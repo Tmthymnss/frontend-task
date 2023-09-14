@@ -1,0 +1,7 @@
+#To run the application. 
+
+#1. Clone or pull this repository to your local repository 
+#2. once you're done, open any terminal to perform git commands then open the repository using cd command
+#3. once you're inside the repository, type npm install in the terminal to install all the necessary packages that has been ignore because of the .gitignore
+#4. Now, Type npm start to run the project. 
+
